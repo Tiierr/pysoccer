@@ -203,21 +203,22 @@ See [LICENSE][license].
 
 [football-data-api-key]: http://api.football-data.org/client/register
 
-[competitions]: https://ws1.sinaimg.cn/large/647dc635ly1fevc5qy7zbj21150ilq6p.jpg
-[competitions-season]: https://ws1.sinaimg.cn/large/647dc635ly1fevc6fkftyj20yk0cz40z.jpg
-[teams]: https://ws1.sinaimg.cn/large/647dc635ly1fevc6qex4yj20yx0ie77t.jpg
-[players]: https://ws1.sinaimg.cn/large/647dc635ly1fevc6z0lzbj218o0jnjxf.jpg
-[standings]: https://ws1.sinaimg.cn/large/647dc635ly1fevc774gsbj20wk0hiju3.jpg
-[full-standings]: https://ws1.sinaimg.cn/large/647dc635ly1fevc7hpv9rj217z0hogp6.jpg
-[fixtures-default]: https://ws1.sinaimg.cn/large/647dc635ly1fevc7xs7mfj21840opk1k.jpg
-[fixtures-next]: https://ws1.sinaimg.cn/large/647dc635ly1fevc8c5aruj217w0ks46u.jpg
-[fixtures-previous]: https://ws1.sinaimg.cn/large/647dc635ly1fevc8mxv3gj218c0ivtfw.jpg
-[fixtures-league]: https://ws1.sinaimg.cn/large/647dc635ly1fevc912nlkj21850o4n7a.jpg
-[fixtures-league-md]: https://ws1.sinaimg.cn/large/647dc635ly1fevc9ayqrmj218g09y41p.jpg
-[fixtures-league-md-tf]: https://ws1.sinaimg.cn/large/647dc635ly1fevc9pe8h5j218708vtbc.jpg
-[fixtures-two-teams]: https://ws1.sinaimg.cn/large/647dc635ly1fevca436tij21890c9n0o.jpg
-[fixtures-two-teams-h2h]: https://ws1.sinaimg.cn/large/647dc635ly1fevcadcoz7j218g0pkqci.jpg
+[competitions]: http://ww1.sinaimg.cn/large/647dc635ly1fevdawerjbj21150ilq6p.jpg
+[competitions-season]: http://ww1.sinaimg.cn/large/647dc635ly1fevdavn2naj20yk0cz40z.jpg
+[teams]: http://ww1.sinaimg.cn/large/647dc635ly1fevdavio1uj20yx0ie77t.jpg
+[players]: http://ws1.sinaimg.cn/large/647dc635ly1fevc6z0lzbj218o0jnjxf.jpg
+[standings]: http://ws1.sinaimg.cn/large/647dc635ly1fevc774gsbj20wk0hiju3.jpg
+[full-standings]: http://ws1.sinaimg.cn/large/647dc635ly1fevc7hpv9rj217z0hogp6.jpg
+[fixtures-default]: http://ws1.sinaimg.cn/large/647dc635ly1fevc7xs7mfj21840opk1k.jpg
+[fixtures-next]: http://ws1.sinaimg.cn/large/647dc635ly1fevc8c5aruj217w0ks46u.jpg
+[fixtures-previous]: http://ws1.sinaimg.cn/large/647dc635ly1fevc8mxv3gj218c0ivtfw.jpg
+[fixtures-league]: http://ws1.sinaimg.cn/large/647dc635ly1fevc912nlkj21850o4n7a.jpg
+[fixtures-league-md]: http://ws1.sinaimg.cn/large/647dc635ly1fevc9ayqrmj218g09y41p.jpg
+[fixtures-league-md-tf]: http://ws1.sinaimg.cn/large/647dc635ly1fevc9pe8h5j218708vtbc.jpg
+[fixtures-two-teams]: http://ws1.sinaimg.cn/large/647dc635ly1fevca436tij21890c9n0o.jpg
+[fixtures-two-teams-h2h]: http://ws1.sinaimg.cn/large/647dc635ly1fevcadcoz7j218g0pkqci.jpg
 
 [contributors]: https://github.com/RayYu03/pysoccer/blob/master/CONTRIBUTIONS.md
 
 [license]: https://github.com/RayYu03/pysoccer/blob/master/LICENSE
+aster/LICENSE

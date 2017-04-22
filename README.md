@@ -203,22 +203,21 @@ See [LICENSE][license].
 
 [football-data-api-key]: http://api.football-data.org/client/register
 
-[competitions]: http://ww1.sinaimg.cn/large/647dc635ly1fevdawerjbj21150ilq6p.jpg
-[competitions-season]: http://ww1.sinaimg.cn/large/647dc635ly1fevdavn2naj20yk0cz40z.jpg
-[teams]: http://ww1.sinaimg.cn/large/647dc635ly1fevdavio1uj20yx0ie77t.jpg
-[players]: http://ws1.sinaimg.cn/large/647dc635ly1fevc6z0lzbj218o0jnjxf.jpg
-[standings]: http://ws1.sinaimg.cn/large/647dc635ly1fevc774gsbj20wk0hiju3.jpg
-[full-standings]: http://ws1.sinaimg.cn/large/647dc635ly1fevc7hpv9rj217z0hogp6.jpg
-[fixtures-default]: http://ws1.sinaimg.cn/large/647dc635ly1fevc7xs7mfj21840opk1k.jpg
-[fixtures-next]: http://ws1.sinaimg.cn/large/647dc635ly1fevc8c5aruj217w0ks46u.jpg
-[fixtures-previous]: http://ws1.sinaimg.cn/large/647dc635ly1fevc8mxv3gj218c0ivtfw.jpg
-[fixtures-league]: http://ws1.sinaimg.cn/large/647dc635ly1fevc912nlkj21850o4n7a.jpg
-[fixtures-league-md]: http://ws1.sinaimg.cn/large/647dc635ly1fevc9ayqrmj218g09y41p.jpg
-[fixtures-league-md-tf]: http://ws1.sinaimg.cn/large/647dc635ly1fevc9pe8h5j218708vtbc.jpg
-[fixtures-two-teams]: http://ws1.sinaimg.cn/large/647dc635ly1fevca436tij21890c9n0o.jpg
-[fixtures-two-teams-h2h]: http://ws1.sinaimg.cn/large/647dc635ly1fevcadcoz7j218g0pkqci.jpg
+[competitions]: http://oospx4z42.bkt.clouddn.com/competition.png
+[competitions-season]: http://oospx4z42.bkt.clouddn.com/competition_by_season.png
+[teams]: http://oospx4z42.bkt.clouddn.com/teams.png
+[players]: http://oospx4z42.bkt.clouddn.com/players.png
+[standings]: http://oospx4z42.bkt.clouddn.com/standings.png
+[full-standings]: http://oospx4z42.bkt.clouddn.com/full-standings.png
+[fixtures-default]: http://oospx4z42.bkt.clouddn.com/fixtures.png
+[fixtures-next]: http://oospx4z42.bkt.clouddn.com/next3.png
+[fixtures-previous]: http://oospx4z42.bkt.clouddn.com/previous3.png
+[fixtures-league]: http://oospx4z42.bkt.clouddn.com/league_fixtures.png
+[fixtures-league-md]: http://oospx4z42.bkt.clouddn.com/md.png
+[fixtures-league-md-tf]: http://oospx4z42.bkt.clouddn.com/md_tf.png
+[fixtures-two-teams]: http://oospx4z42.bkt.clouddn.com/twoteam.png
+[fixtures-two-teams-h2h]: http://oospx4z42.bkt.clouddn.com/h2h.png
 
 [contributors]: https://github.com/RayYu03/pysoccer/blob/master/CONTRIBUTIONS.md
 
 [license]: https://github.com/RayYu03/pysoccer/blob/master/LICENSE
-aster/LICENSE

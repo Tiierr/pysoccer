@@ -2,6 +2,7 @@ import os
 import sys
 import json
 import click
+import requests
 
 from soccer.data import LEAGUE_IDS, TEAM_NAMES, config, urls
 from soccer.writers import get_writer
@@ -143,6 +144,10 @@ def main(league, lists, teams, team, players, fixtures, id, h2h, md, tf,
                 rh.get_fixtures()
 
     except IncorrectParametersException as e:
+        click.secho(str(e), fg="red", bold=True)
+
+    except requests.exceptions.ConnectionError as e:
+        click.secho("Connection Error:", fg="red", bold=True)
         click.secho(str(e), fg="red", bold=True)
 
 if __name__ == '__main__':

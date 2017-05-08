@@ -21,11 +21,32 @@ Get a [API Key][football-data-api-key] and activate it.
 
 ## Install
 
-### Using pip
+### Linux
 
 ```
 sudo pip install pysoccer
 ```
+
+### Windows
+
+Open prompt shell as Administrator and execute
+```
+pip install requests click
+```
+
+to get the dependencies ready.
+
+Install `pysoccer` by either using pip as
+```
+pip install pysoccer
+```
+or executing
+```
+python ./setup.py install
+```
+in the root folder of the repo.
+
+### Set API token
 
 Set your API key in an environment variable SOCCER_CLI_API_TOKEN
 

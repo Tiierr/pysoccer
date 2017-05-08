@@ -21,11 +21,30 @@ PySoccer 是一个获取欧洲一个欧洲足球数据的命令行界面程序�
 
 ## 安装
 
-### 使用 pip
+### Linux 
 
 ```
 sudo pip install pysoccer
 ```
+
+### Windows
+
+在管理员命令提示符下用
+```
+pip install requests click
+```
+安装依赖的包。
+
+可以用
+```
+pip install pysoccer
+```
+来安装这个程序，也可以在项目的根目录下
+```
+python ./setup.py install
+```
+
+### 设置API token
 
 将你的 API key 设置为环境变量。
 

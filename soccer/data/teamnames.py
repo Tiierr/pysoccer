@@ -5,6 +5,7 @@ TEAM_NAMES = {
     'TSG': 2,
     'B04': 3,
     'BVB': 4,
+    'FCBM': 5,
     'S04': 6,
     'HSV': 7,
     'H96': 8,

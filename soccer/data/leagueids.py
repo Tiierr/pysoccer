@@ -1,23 +1,39 @@
+__all__ = ['LEAGUE_IDS']
+
+LEAGUE_IDS ={
+    "BSA": 444,
+    "PL": 445,
+    "ELC": 446,
+    "EL1": 447,
+    "EL2": 448,
+    "DED": 449,
+    "FL1": 450,
+    "FL2": 451,
+    "BL1": 452,
+    "BL2": 453,
+    "PD": 455,
+    "SA": 456,
+    "PPL": 457,
+    "DFB": 458,
+    "SB": 459,
+    "CL": 464,
+    "AAL": 466
+}
+
+
+"""
+更新当前赛季联赛序号
+
+import requests
+import json
 
 __all__ = ['LEAGUE_IDS']
 
-LEAGUE_IDS = {
-    "EC": 424,
-    "PL": 426,
-    "ELC": 427,
-    "EL1": 428,
-    'FAC': 429,
-    "BL1": 430,
-    "BL2": 431,
-    "DED": 433,
-    "FL1": 434 ,
-    "FL2": 435,
-    "PD": 436,
-    "SD": 437,
-    "SA": 438,
-    "PPL": 439,
-    "CL": 440,
-    "SB": 441,
-    "ENL": 442,
-    "EL2": 443,
-}
+res = requests.get('http://api.football-data.org/v1/competitions')
+competitions = json.loads(res.content.decode('utf-8'))
+
+LEAGUE_IDS = {}
+
+for cpt in competitions:
+    LEAGUE_IDS[cpt['league']] = cpt['id']
+"""
